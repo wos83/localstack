@@ -1,0 +1,2 @@
+# localstack
+LocalStack Docker Script
